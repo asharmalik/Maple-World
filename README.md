@@ -15,4 +15,4 @@ Screenshots
 
 ![Screenshot 1](https://raw.githubusercontent.com/asharmalik/Maple-World/master/screenshots/screenshot1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/asharmalik/Maple-World/master/screenshots/screenshot2.png)
-![Screenshot 3(https://raw.githubusercontent.com/asharmalik/Maple-World/master/screenshots/screenshot3.png)
+![Screenshot 3](https://raw.githubusercontent.com/asharmalik/Maple-World/master/screenshots/screenshot3.png)
